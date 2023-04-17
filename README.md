@@ -31,7 +31,7 @@ If the user loses ->
 
 {
     "randomNumber": xxx,
-    "winnings": xxx,
+    "winnings": 0.0,
     "userWin": false
 }
 
